@@ -22,3 +22,7 @@
 1738698736481:/search?search=goodboy New Request Received
 1738699158836:/search?search_query=goodboy New Request Received
 1738700493862:/search?search_query=goodboy New Request Received
+1738845503820:GET / New Request Received
+1738845553532:GET /about New Request Received
+1738845612588:GET / New Request Received
+1738845827427:GET /signup New Request Received
