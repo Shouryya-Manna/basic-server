@@ -26,3 +26,7 @@
 1738845553532:GET /about New Request Received
 1738845612588:GET / New Request Received
 1738845827427:GET /signup New Request Received
+1738846334773:GET /signup New Request Received
+1738846461574:GET / New Request Received
+1738846467447:GET /signup New Request Received
+1738846472185:GET /about New Request Received
